@@ -1,4 +1,4 @@
-## Olá, sou o Théo da Costa!
+## Sejam bem vindos, eu sou o Théo :)
 
 - Sou um estudante de Análise e Desenvolvimento de Sistemas no IFSP 
 - Um programador front-end em construção! 

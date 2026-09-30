@@ -46,6 +46,11 @@
 
 ## Entre em Contato
 
-<a href="https://www.linkedin.com/in/th%C3%A9o-da-costa-estagio/">
+<a href="www.linkedin.com/in/theo-vera-costa">
   <img width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+  <a href="LINK_DO_TEU_FIGMA" target="_blank">
+    
+<a href="https://www.figma.com/@theodacosta">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</a>
 </a>

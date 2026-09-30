@@ -49,7 +49,6 @@
 <a href="www.linkedin.com/in/theo-vera-costa">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
 </a>
-
 <a href="https://www.figma.com/@theodacosta">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
 </a>

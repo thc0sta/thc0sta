@@ -30,7 +30,7 @@
 
 - Amante do universo pokémon.
 - Quero seguir na área de UX/UI.
-- Café é o meu ponto fraco.
+- Apaixonado por café.
 - Nunca pode faltar música.
   
 <a><img height="150" src="https://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif" alt="Eevee"></a>

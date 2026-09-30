@@ -46,11 +46,9 @@
 
 ## Entre em Contato
 
-<a href="www.linkedin.com/in/theo-vera-costa">
-  <img width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
-  <a href="LINK_DO_TEU_FIGMA" target="_blank">
-    
-<a href="https://www.figma.com/@theodacosta">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<a href="www.linkedin.com/in/theo-vera-costa" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
 </a>
+<a href="https://www.figma.com/@theodacosta" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
 </a>
